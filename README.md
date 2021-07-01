@@ -13,4 +13,4 @@ total number of cases during the desired timeframe
 precautions based on the severity of the DI
 The project was selected for incubation at IIPH.
 
-Personal Contribution: Made the ML model
+**Personal Contribution:** Made the ML model
